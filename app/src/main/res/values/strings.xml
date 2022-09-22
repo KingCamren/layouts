@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="greeting">
+        <u>hello! please select a layout</u>
+    </string>
+    <string name="greeting_subtitle">
+        <font face = "monospace">after selecting, long click to cycle layouts</font>
+    </string>
+    <string name="layout_0_button_text">Corners</string>
+    <string name="layout_1_button_text">Checker</string>
+    <string name="layout_2_button_text">Guideline</string>
+    <string name="layout_3_button_text">Overlap</string>
+    <string name="layout_4_button_text">scroll text</string>
+    <string name="layout_5_button_text">scroll buttons</string>
+    <string name="layout_6_button_text">scroll checkboxes</string>
+</resources>
