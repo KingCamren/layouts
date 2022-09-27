@@ -13,4 +13,17 @@
     <string name="layout_4_button_text">scroll text</string>
     <string name="layout_5_button_text">scroll buttons</string>
     <string name="layout_6_button_text">scroll checkboxes</string>
+    <string name="layout0_top_left_text">hello from the top left :0</string>
+    <string name="layout0_top_right_text">this button does nothing</string>
+    <string name="layout0_bottom_left_text">that button does nothing</string>
+    <string name="layout0_bottom_right_text">there\'s a gap under me?</string>
+    <string name="layout1_top_center_text">would this make me a title view of sorts</string>
+    <string name="layout1_center_center_text">body of dinosaur</string>
+    <string name="layout1_top_left_of_center_text">head (:</string>
+    <string name="layout1_100_guideright_text"><b>nice to not have my head on the ceiling</b></string>
+    <string name="layout1_under_textview_text"><font color = "white">just a little guy</font></string>
+    <string name="layout2_centered_text"><font color = "white">this is centered</font></string>
+    <string name="layout2_center_bottom_toggle_on">click me!</string>
+    <string name="layout2_center_bottom_toggle_off">click me again!</string>
+    <string name="layout3_top_left_text"><font color = "#ffff00">the sun is square</font></string>
 </resources>

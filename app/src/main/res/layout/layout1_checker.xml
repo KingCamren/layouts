@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:text="@string/layout1_top_center_text"
+        app:layout_constraintLeft_toLeftOf="parent"
+
+        android:background="@color/black"
+        android:textColor="@color/white"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/layout0_center_center"
+
+        android:background="@color/teal_700"
+        android:text="@string/layout1_center_center_text"/>
+
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="50sp"
+        app:layout_constraintBottom_toTopOf="@id/layout0_center_center"
+        app:layout_constraintRight_toLeftOf="@id/layout0_center_center"
+
+        android:background="@color/black"
+        android:text="@string/layout1_top_left_of_center_text"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
