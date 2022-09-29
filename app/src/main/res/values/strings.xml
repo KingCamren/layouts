@@ -26,4 +26,29 @@
     <string name="layout2_center_bottom_toggle_on">click me!</string>
     <string name="layout2_center_bottom_toggle_off">click me again!</string>
     <string name="layout3_top_left_text"><font color = "#ffff00">the sun is square</font></string>
+    <string name="layout4_button_text">this button looks important</string>
+    <string name="layout4_scroll_text">
+        <font face = "serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a ante sagittis, blandit sem eu, feugiat quam. Nam et turpis odio. Nullam blandit ipsum porttitor eros ullamcorper iaculis. Aliquam non orci id erat maximus euismod eu at urna. Nulla et rutrum orci. Sed scelerisque pharetra mi nec dapibus. Etiam efficitur ligula gravida consectetur ultrices. Suspendisse sit amet accumsan tortor. Duis lorem dui, luctus eu commodo a, ultricies nec quam. Sed in aliquet odio. Suspendisse non mauris id turpis sollicitudin lobortis nec in tortor. Nunc nec justo non erat efficitur pulvinar. Nunc scelerisque at elit et porttitor. Maecenas malesuada velit lectus, eu congue turpis auctor ac. Mauris condimentum orci est, ac convallis lacus scelerisque id.Duis at orci porttitor mauris lobortis molestie porta a neque. Maecenas nec nunc ullamcorper, fringilla odio et, varius enim. Ut malesuada felis et lectus tincidunt varius. Aliquam et facilisis nibh. Vivamus finibus tempor magna sit amet dictum. In a enim semper, ullamcorper mauris sed, tincidunt ex. Integer placerat laoreet diam eget ornare. Praesent egestas malesuada mi, dapibus porttitor dui convallis in. Quisque nisi nulla, tempor ac mi ut, mattis ornare felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In condimentum a ipsum vitae hendrerit.Vestibulum facilisis ligula ornare odio hendrerit, eget luctus nisl mollis. Donec congue bibendum metus, in rutrum purus. Praesent in purus eget quam aliquet tincidunt. Sed lobortis scelerisque massa. Nulla facilisi. Ut dapibus tellus a justo imperdiet sodales. Nunc enim velit, commodo id auctor ac, placerat eu tellus. Duis consectetur, massa tempor imperdiet feugiat, erat risus pellentesque metus, eu lacinia augue lacus eget lacus. Nunc augue nunc, placerat gravida tincidunt ac, mollis quis orci.Aliquam id est sit amet justo tempus sollicitudin et vitae nisi. Sed tristique laoreet iaculis. Nam volutpat neque eget magna elementum ornare non quis nibh. Suspendisse potenti. Nulla nunc tortor, pulvinar a tortor non, imperdiet fermentum odio. Donec tempor efficitur arcu, id faucibus ipsum. Proin egestas id libero vitae semper. Fusce efficitur imperdiet metus ut aliquet. Nam vitae maximus metus. Duis dolor nulla, ornare quis neque ac, sodales aliquet dolor. Praesent tempus quam justo, at viverra nulla gravida ac.Nullam tempor laoreet mauris et tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Phasellus a condimentum lacus. Cras rhoncus porttitor risus, quis egestas odio commodo a. Aenean id libero quis tortor maximus malesuada sit amet ac nibh. Pellentesque efficitur id felis quis semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis scelerisque arcu. Etiam sit amet sapien sit amet sem auctor sollicitudin id sed magna. Integer sed risus vel lacus pulvinar convallis.</font>
+    </string>
+    <string name="layout5_button1_text">button 1</string>
+    <string name="layout5_button2_text">button 2</string>
+    <string name="layout5_button3_text">button 3</string>
+    <string name="layout5_button4_text">button 4</string>
+    <string name="layout5_button5_text">button 5</string>
+    <string name="layout5_button6_text">button 6</string>
+    <string name="layout6_textview_text">text</string>
+    <string name="layout6_button_text">very useful button</string>
+    <string name="layout6_check1_text">check 1</string>
+    <string name="layout6_check2_text">check 2</string>
+    <string name="layout6_check3_text">check 3</string>
+    <string name="layout6_check4_text">check 4</string>
+    <string name="layout6_check5_text">check 5</string>
+    <string name="layout6_check6_text">check 6</string>
+    <string name="layout6_check7_text">check 7</string>
+    <string name="layout6_check8_text">check 8</string>
+    <string name="layout6_check9_text">check 9</string>
+    <string name="layout6_check10_text">check 10</string>
+    <string name="layout6_check11_text">check 11</string>
+    <string name="layout6_check12_text">check 12</string>
+    <string name="layout0_corners_name">corners</string>
 </resources>

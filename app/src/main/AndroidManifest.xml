@@ -22,6 +22,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".Layout0Activity"
+            android:label="@string/layout0_corners_name"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.zmatthews.layouts.MainActivity"/>
+        </activity>
+
+
     </application>
 
 </manifest>
